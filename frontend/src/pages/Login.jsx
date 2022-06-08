@@ -5,7 +5,7 @@ import Github from "../img/github.png";
 const Login = () => {
   return (
     <div className="login">
-      {/* <h1 className="loginTitle">Choose your Login method</h1> */}
+      <h1 className="loginTitle">Choose your Login method</h1>
       <div className="wrapper">
         <div className="left">
           <div className="loginButton google">

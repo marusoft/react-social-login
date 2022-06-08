@@ -19,7 +19,7 @@ export const posts = [
     id: 3,
     title: "Why do we use it?",
     img: "https://media.istockphoto.com/photos/color-guide-and-lorem-ipsum-text-picture-id185313478?k=20&m=185313478&s=612x612&w=0&h=KQ9Z-Z4Wgkfg0J5Obm2W7XdMZRtKrlQYFL_VrDOdCzU=",
-    desc: "Contrary to popular belief, Lorem Ipsum is not simply random text.aaaaaaaaaaaaaaaaaaaaaaaaaeeeee bbbbb bbbbb jjl opmnj nkioo nbrj;hjmn",
+    desc: "Contrary to popular belief, Lorem Ipsum is not simply random text.",
     longDesc:
       "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. hHHAHHAHHANJWWJJWQIWIWWWUJ",
   },
